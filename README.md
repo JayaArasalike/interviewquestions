@@ -1,5 +1,7 @@
 # interview questions webapp
 
+This project is deployed at: https://philmao.github.io/interviewquestions/index.html
+
 We designed and developed this website, with the intention of providing practice interview questions for students who are learning web development like us.
 
 Since aspiring web developers generally have linkedIn account that shows their skill set, we decided that we would provide user sign-in through linkedIn. If the user is successfully authenticated, then user will be redirected our website choose a subject area (HTML, CSS, JavaScript, jQuery or combination). 
